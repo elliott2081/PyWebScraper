@@ -1,6 +1,7 @@
 import sys
 import requests
 import bs4
+
 # Example Usage
 # $>d.py http://www.google.com links.txt
 if len(sys.argv) == 3:
